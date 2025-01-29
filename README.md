@@ -1,2 +1,1 @@
-# .github
-About the organisation
+> Stay Tuned!
